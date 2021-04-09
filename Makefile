@@ -33,7 +33,6 @@ CT_APPS := emqx \
            emqx_coap \
            emqx_recon \
            emqx_dashboard \
-           emqx_delayed_publish \
            emqx_lua_hook \
            emqx_lwm2m \
            emqx_management \
